@@ -1,0 +1,13 @@
+This contains a .zip of all the required assets for this chapter.
+
+Animations:
+  Idle.fbx
+  JumpEnd.fbx
+  JumpingStart.fbx
+  JumpLoop.fbx
+  Running.fbx
+  Throw.fbx
+  Walking.fbx
+  
+Skeletal Mesh:
+  MainCharacter.fbx
