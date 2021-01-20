@@ -29,6 +29,6 @@ Start with the fundamentals of UE4 and progressively build your knowledge and sk
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
-* [The Clojure Workshop](https://www.amazon.com/Clojure-Workshop-Interactive-Approach-Learning-ebook/dp/B082FJ9ZLY/ref=sr_1_1?dchild=1&keywords=clojure+workshop&qid=1611126806&sr=8-1)
-* [The C++ Workshop](https://www.amazon.com/Workshop-New-Interactive-Approach-Learning/dp/183921662X/ref=sr_1_1?dchild=1&keywords=c%2B%2B+workshop&qid=1611126836&sr=8-1)
-* [The Java Workshop](https://www.amazon.com/Java-Workshop-Interactive-Approach-Learning-ebook/dp/B07ZX1NDZ6/ref=sr_1_1?dchild=1&keywords=java+workshop&qid=1611126821&sr=8-1)
+* [The Clojure Workshop](https://www.amazon.com/Clojure-Workshop-Interactive-Approach-Learning-dp-1838825487/dp/1838825487/ref=mt_other?_encoding=UTF8&me=&qid=1610976962&utm_source=github&utm_medium=repository&utm_campaign=9781838825485&utm_term=Clojure&utm_content=The%20Clojure%20Workshop)
+* [The C++ Workshop](https://www.amazon.com/Workshop-New-Interactive-Approach-Learning/dp/183921662X/ref=sr_1_1?dchild=1&keywords=The%20C%2B%2B%20Workshop&qid=1610976829&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781839216626&utm_term=C%2B%2B&utm_content=The%20C%2B%2B%20Workshop)
+* [The Java Workshop](https://www.amazon.com/Java-Workshop-Interactive-Approach-Learning-ebook/dp/B07ZX1NDZ6/ref=sr_1_1?dchild=1&keywords=The%20Java%20Workshop&qid=1611053201&sr=8-1&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781838986698&utm_term=Java&utm_content=The%20Java%20Workshop)
