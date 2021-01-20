@@ -3,7 +3,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Game-Development-Projects-with-Unreal-Engine.svg)](https://github.com/PacktPublishing/Game-Development-Projects-with-Unreal-Engine/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Game-Development-Projects-with-Unreal-Engine.svg)](https://github.com/PacktPublishing/Game-Development-Projects-with-Unreal-Engine/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktPublishing/Game-Development-Projects-with-Unreal-Engine/pulls)
-[![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 
 This is the repository for [Game Development Projects with Unreal Engine](https://www.amazon.com/Game-Development-Projects-Unreal-Engine/dp/1800209223/ref=sr_1_1?dchild=1&keywords=Game+Development+Projects+with+Unreal+Engine&qid=1611126590&sr=8-1), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
