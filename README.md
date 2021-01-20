@@ -11,7 +11,7 @@ This is the repository for [Game Development Projects with Unreal Engine](https:
 <a href="https://www.amazon.com/Game-Development-Projects-Unreal-Engine/dp/1800209223/ref=sr_1_1?dchild=1&keywords=Game+Development+Projects+with+Unreal+Engine&qid=1611126590&sr=8-1"><img src="https://github.com/PacktPublishing/Game-Development-Projects-with-Unreal-Engine/blob/master/Game%20Development%20Project%20with%20Unreal%20Engine.png" alt="Game Development Projects with Unreal Engine" height="290px" width="230px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
-1. Install Visual Studio(https://visualstudio.microsoft.com/downloads)
+1. Install [Visual Studio](https://visualstudio.microsoft.com/downloads)
 2. Install Epic Games Launcher for [Windows and macOS](https://www.unrealengine.com/get-now), [Linux](https://docs.unrealengine.com/en-US/GettingStarted/DownloadingUnrealEngine)
 
 ## About Game Development Projects with Unreal Engine
